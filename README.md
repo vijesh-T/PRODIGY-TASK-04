@@ -3,6 +3,9 @@
 
 Task-04 Completed: Simple Keylogger
 
+# Disclaimer
+This keylogger script is provided for educational purposes only. I do not endorse or encourage any unauthorized or malicious use of keyloggers. The users assume full responsibility for their actions while using this script.
+
 # Task Description
 
 Developed a basic keylogger program that records and logs keystrokes.
