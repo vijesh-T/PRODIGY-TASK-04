@@ -4,7 +4,7 @@
 Task-04 Completed: Simple Keylogger
 
 # Disclaimer
-This keylogger script is provided for educational purposes only. I do not endorse or encourage any unauthorized or malicious use of keyloggers. The users assume full responsibility for their actions while using this script.
+This keylogger script is provided for educational purposes only. I do not endorse or encourage any unauthorized or malicious use of keyloggers. The users assume full responsibility for their actions while using this script.(code not add in repository)
 
 # Task Description
 
@@ -17,3 +17,5 @@ Prioritized ethical considerations and permissions for projects involving keylog
 - Stealth Mode: Operates discreetly without being easily detectable by the user.
 - Persistence: Automatically starts capturing keystrokes when the system boots up.
 - Configuration: Options to configure logging behavior (e.g., saving logs locally or remotely).
+
+
